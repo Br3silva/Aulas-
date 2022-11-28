@@ -1,2 +1,3 @@
 # Aulas 
- primeiros passos programaçao
+ primeiros passos programaçao 
+treinamento git 
